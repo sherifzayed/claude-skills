@@ -1,0 +1,8 @@
+{
+  "name": "sherif-skills",
+  "description": "Personal Claude skills, starting with declarative React Three Fiber JSX",
+  "version": "0.1.0",
+  "author": {
+    "name": "Sherif Zayed"
+  }
+}

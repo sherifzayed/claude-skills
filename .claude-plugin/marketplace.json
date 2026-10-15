@@ -1,0 +1,14 @@
+{
+  "name": "sherifzayed-skills",
+  "description": "Sherif's Claude Code skills",
+  "owner": {
+    "name": "Sherif Zayed"
+  },
+  "plugins": [
+    {
+      "name": "sherif-skills",
+      "source": "./plugins/sherif-skills",
+      "description": "Personal Claude skills, starting with declarative React Three Fiber JSX"
+    }
+  ]
+}
